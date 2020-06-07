@@ -2,7 +2,7 @@
 The only restaurant in the world serving out delicious Design-Pattern-based foods!
 
 # Our Menu
-Our current menu:
+Here's what's currently on offer. 
 
 ## Starters
 TBA
