@@ -1,12 +1,19 @@
 # DesignPatternsRestaurant
 The only restaurant in the world serving out delicious Design-Pattern-based foods!
 
-## Our Menu
+# Our Menu
 Our current menu:
 
+## Mains
 ### Burgers
 * Beef
 * Chicken
 
-### Set Meals
+### Pizzas
+TBA
+
+## Drinks
+TBA
+
+## Set Meals
 TBA
