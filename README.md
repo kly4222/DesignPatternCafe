@@ -1,7 +1,7 @@
 # DesignPatternsRestaurant
 The only restaurant in the world serving out delicious Design-Pattern-based foods!
 
-## Menu
+## Our Menu
 Our current menu:
 
 ### Burgers
