@@ -29,12 +29,17 @@ public class LightSaber
 		this.id = idGenerator.incrementAndGet();
 	}
 
+	@Override
+	public LightSaber clone() {
+		return new LightSaber(this);
+	}
+
 	public Color getColour() {
-		return colour;
+		return this.colour;
 	}
 
 	public boolean isDoubleBladed() {
-		return doubleBladed;
+		return this.doubleBladed;
 	}
 
 	@Override
@@ -47,10 +52,5 @@ public class LightSaber
 		sb.append(this.colour.toString().toUpperCase());
 		sb.append(" Lightsaber (ID: " + this.id + ")");
 		return sb.toString();
-	}
-
-	@Override
-	public LightSaber clone() {
-		return new LightSaber(this);
 	}
 }
