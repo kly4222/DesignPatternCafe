@@ -1,7 +1,6 @@
 package burger.ingredients;
 
-public enum Vegetable
-{
+public enum Vegetable {
 	tomato,
 	lettuce,
 	gerkhin,

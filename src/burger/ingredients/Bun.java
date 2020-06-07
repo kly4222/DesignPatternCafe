@@ -1,7 +1,6 @@
 package burger.ingredients;
 
-public enum Bun
-{
+public enum Bun {
 	brioche,
 	gluten_free
 }

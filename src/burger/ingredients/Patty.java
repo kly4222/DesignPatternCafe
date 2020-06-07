@@ -1,7 +1,6 @@
 package burger.ingredients;
 
-public enum Patty
-{
+public enum Patty {
 	beef,
 	chicken,
 	bean
