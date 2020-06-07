@@ -4,13 +4,13 @@ The only restaurant in the world serving out delicious Design-Pattern-based food
 # Our Menu
 Our current menu:
 
+## Starters
+TBA
+
 ## Mains
 ### Burgers
 * Beef
 * Chicken
-
-### Pizzas
-TBA
 
 ## Drinks
 TBA
