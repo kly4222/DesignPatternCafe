@@ -6,6 +6,7 @@ Here are a list of design patterns used and the classes where they are implement
 * Singleton: HeadChef
 * Factory Method
 * Builder: BurgerBuilder
+* Prototype: LightSaber
 
 # Our Menu
 Here's what's currently on offer. 
