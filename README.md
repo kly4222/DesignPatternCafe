@@ -2,10 +2,10 @@
 The only restaurant in the world serving out delicious Design-Pattern-based foods!
 
 ## Design Patterns Implemented
-Here are a list of design patterns used and where they are implemented:
-* Singleton
+Here are a list of design patterns used and the classes where they are implemented:
+* Singleton: HeadChef
 * Factory Method
-* Builder
+* Builder: BurgerBuilder
 
 # Our Menu
 Here's what's currently on offer. 
